@@ -139,7 +139,11 @@ df
 ![ds op18](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex01/assets/94219798/fcc27fda-3efc-482b-ac9a-196f11c3e192)
 ![ds op19](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex01/assets/94219798/faff5e2c-bf6a-44f4-b9ff-5dddf1f0727e)
 ![ds op20](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex01/assets/94219798/dc5011d3-ea63-43f0-8523-b9bac72659ab)
+
+
 ![ds op21](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex01/assets/94219798/58e19b60-0d9e-4196-a899-aa8f3c5ce47a)
+
+
 ![ds op22](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex01/assets/94219798/07e43672-c445-400a-80a4-5e4e34c2ff73)
 ![ds op23](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex01/assets/94219798/6865c9a7-cb4a-4159-af0d-36ef2d9e10e1)
 ![ds op24](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex01/assets/94219798/667b2bb7-5577-4841-a5e9-1af3fcdde46f)
