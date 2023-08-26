@@ -153,7 +153,6 @@ df
 ![ds op28](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex01/assets/94219798/eafef4a4-6acd-4263-9766-117c713265d4)
 
 # RESULT
-
 Hence,we have  performed data cleaning and saved the cleaned data to a file. 
 
 
