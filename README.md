@@ -122,6 +122,8 @@ df
 
 
 ![ds op7](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex01/assets/94219798/8ca1967c-4e6c-45d5-9752-66b0670c7cd6)
+
+
 ![ds op8](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex01/assets/94219798/03f47969-5136-4779-adbd-f90c3035292c)
 
 
