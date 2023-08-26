@@ -23,6 +23,9 @@ df=pd.read_csv("SAMPLEDS.csv")
 
 df
 
+![ds op27](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex01/assets/94219798/b116f2e8-e224-40a6-acee-ccf1bf46ca04)
+
+
 df.head
 
 df.tail
@@ -108,6 +111,8 @@ df
 ```
 
 # OUTPUT
+
+![ds op1](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex01/assets/94219798/4be55de2-dd02-41aa-b781-cbf12f75702b)
 ![ds op2](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex01/assets/94219798/b76e3234-a4bc-4a61-8db9-837e859ed050)
 ![ds op4](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex01/assets/94219798/221bede1-369a-45ba-a732-0020ddc12c78)
 ![ds op5](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex01/assets/94219798/fa8cf364-e20a-4ae6-b5b8-9e566d935344)
