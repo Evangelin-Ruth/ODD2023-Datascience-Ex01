@@ -106,9 +106,8 @@ for x in df.index:
 
 df
 ```
+
 # OUTPUT
-
-
 ![ds op2](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex01/assets/94219798/b76e3234-a4bc-4a61-8db9-837e859ed050)
 ![ds op4](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex01/assets/94219798/221bede1-369a-45ba-a732-0020ddc12c78)
 ![ds op5](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex01/assets/94219798/fa8cf364-e20a-4ae6-b5b8-9e566d935344)
