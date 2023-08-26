@@ -1,6 +1,3 @@
-![ds op26](https://github.com/Evangelin-Ruth/ODD2023-Datascience-Ex01/assets/94219798/7d534d7d-ab63-4bf0-bd79-15f220188a60)# Ex-01_DS_Data_Cleansing
-
-
 ## AIM
 To read the given data and perform data cleaning and save the cleaned data to a file. 
 
